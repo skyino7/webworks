@@ -1,3 +1,7 @@
 # Web Development
 
-### Built a TODO App
+### TODO App with JavaScript, HTML & CSS
+
+### Weather App with JavaScript, HTML & CSS
+
+### Nike Ecommence Shop with React & Tailwind
