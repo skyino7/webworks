@@ -13,6 +13,7 @@ import {
   bigShoe3,
   customer1,
   customer2,
+  customer3,
   shoe4,
   shoe5,
   shoe6,
@@ -106,6 +107,13 @@ export const reviews = [
     rating: 4.5,
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+  },
+  {
+    imgURL: customer3,
+    customerName: "Jane Doe",
+    rating: 4.5,
+    feedback:
+      "Nike delivers unmatched comfort, durability, and style, making every step a winning experience for active lifestyles.",
   },
 ];
 
