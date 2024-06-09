@@ -9,6 +9,10 @@ body {
   background-color: #222;
 }
 
+.title{
+  color: #fff;
+}
+
 .card {
   margin: auto;
   width: 90%;
